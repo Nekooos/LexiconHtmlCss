@@ -3,7 +3,7 @@
     margin: 0 auto;
     width: 64em; 
 
-    grid: 10em 20em 20em 10em / 8em 8em 8em 8em 8em 8em 8em 8em;
+    grid: 10em auto auto 10em / 8em 8em 8em 8em 8em 8em 8em 8em;
 }
 
 /* row start / column start / row end / column end */
